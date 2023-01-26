@@ -1,0 +1,5 @@
+Laptop|5
+Monoblock|4
+Nettop|11
+Komputer stacjonarny|11
+Telefon|1

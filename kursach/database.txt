@@ -1,0 +1,7 @@
+1.|Monoblock|Acer|Mono 4|Intel i5-10300H|16GB RAM|59999.99 ZL|
+2.|Laptop|Sony|Vaio|Intel i7-1245G7|32GB RAM|59999.99 ZL|
+3.|Monoblock|Apple|MacBook Air 15|Apple M2|8GB RAM|890000.00 ZL|
+4.|Laptop|Acer|Nitro 5|Ryzen 5 5600H|16GB RAM|36000.00 ZL|
+5.|Nettop|Dell|OptiPlex|Intel i5-10500T|8GB RAM|25575.00 ZL|
+6.|Nettop|ArtLine|Business B16|Intel i5-10400|16GB RAM|16830.00 ZL|
+7.|Komputer stacjonarny|ArtLine|Overlord DRAGON|Intel i7-12700KF|64GB RAM|112320.00 ZL|

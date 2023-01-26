@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\student\Source\Repos\kursach\kursach\source.h(711,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\student\Source\Repos\kursach\kursach\source.h(727,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  kursach.vcxproj -> C:\Users\student\Source\Repos\kursach\Debug\kursach.exe
